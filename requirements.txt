@@ -1,0 +1,7 @@
+datasets
+pandas
+openai
+faiss-cpu
+numpy
+tqdm
+pyarrow

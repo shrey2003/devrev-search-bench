@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Large binary files
+embeddings.npy
+faiss_index/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment & secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
